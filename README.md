@@ -1,8 +1,8 @@
 
-<img align="center" alt="Coding"  src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif"">
-
-
-<h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
+<img align="center" alt="Coding"  src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+<h1 align="center">
+  
+  Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan268&label=Profile%20views&color=0e75b6&style=flat" alt="chandan268" /> </p>
