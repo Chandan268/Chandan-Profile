@@ -6,8 +6,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan268&label=Profile%20views&color=0e75b6&style=flat" alt="chandan268" /> </p>
-- 👨‍💻 All of my projects are available at [https://chandan268.github.io/My-Portfolio/](https://chandan268.github.io/My-Portfolio/)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+- 👨‍💻 All of my projects are available at [https://chandan268.github.io/My-Portfolio/](https://chandan268.github.io/My-Portfolio/)
+
 - 💬 Ask me about **HTML,CSS,JavaScript,ReactJS,MongoBD,NodeJS,ExpressJS**
 
 - 📫 How to reach me **erchandan268@gmail.com**
