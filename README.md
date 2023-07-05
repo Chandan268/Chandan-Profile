@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding"  src="[https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif](https://www.freepik.com/free-vector/cartoon-style-nerd-character-design_22896450.htm#query=cartoon%20programmer&position=4&from_view=keyword&track=ais)">
+<img align="center" alt="Coding"  src="https://www.freepik.com/free-vector/cartoon-style-nerd-character-design_22896450.htm#query=cartoon%20programmer&position=4&from_view=keyword&track=ais">
 
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
