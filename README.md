@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding"  src="<img align="center" alt="Coding"  src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">">
+<img align="center" alt="Coding"  src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif"">
 
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
